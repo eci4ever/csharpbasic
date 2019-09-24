@@ -1,0 +1,11 @@
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\bin\Debug\netcoreapp2.2\abstractclass.deps.json
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\bin\Debug\netcoreapp2.2\abstractclass.runtimeconfig.json
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\bin\Debug\netcoreapp2.2\abstractclass.runtimeconfig.dev.json
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\bin\Debug\netcoreapp2.2\abstractclass.dll
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\bin\Debug\netcoreapp2.2\abstractclass.pdb
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.csprojAssemblyReference.cache
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.csproj.CoreCompileInputs.cache
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.AssemblyInfoInputs.cache
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.AssemblyInfo.cs
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.dll
+C:\Users\Staff\Desktop\learn\csharpbasic\abstractclass\obj\Debug\netcoreapp2.2\abstractclass.pdb

@@ -1,0 +1,10 @@
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\bin\Debug\netcoreapp2.2\LearnInterface.deps.json
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\bin\Debug\netcoreapp2.2\LearnInterface.runtimeconfig.json
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\bin\Debug\netcoreapp2.2\LearnInterface.runtimeconfig.dev.json
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\bin\Debug\netcoreapp2.2\LearnInterface.dll
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\bin\Debug\netcoreapp2.2\LearnInterface.pdb
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\obj\Debug\netcoreapp2.2\LearnInterface.csproj.CoreCompileInputs.cache
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\obj\Debug\netcoreapp2.2\LearnInterface.AssemblyInfoInputs.cache
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\obj\Debug\netcoreapp2.2\LearnInterface.AssemblyInfo.cs
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\obj\Debug\netcoreapp2.2\LearnInterface.dll
+C:\Users\Staff\Desktop\learn\csharpbasic\LearnInterface\obj\Debug\netcoreapp2.2\LearnInterface.pdb
