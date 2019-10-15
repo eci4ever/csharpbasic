@@ -15,11 +15,11 @@ namespace MethodHiding
     }
     class Program : ParentClass
     {
-        public override void Test1()
+        public override void Test1() //Override the method using override keyword
         {
             System.Console.WriteLine("Child test 1 called");
         }
-        public new void Show1()
+        public new void Show1() // Creating method hiding using new keyword
         {
             System.Console.WriteLine("child show1 is called");
         }
